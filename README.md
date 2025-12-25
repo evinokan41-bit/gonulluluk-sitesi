@@ -139,6 +139,5 @@
 <header class="navbar">
   <div class="logo">Gönüllülük Rehberi</div>
 
-  <button class="menu-toggle" onclick="toggleMenu()">☰</button>
 
   
